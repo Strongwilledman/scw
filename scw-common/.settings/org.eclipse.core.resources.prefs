@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ugor/user/enums/AccttypeEnume.java=UTF-8
+encoding//src/main/java/com/ugor/user/enums/AdminAuthStatusEnume.java=UTF-8
+encoding//src/main/java/com/ugor/user/enums/AuthEnume.java=UTF-8
+encoding//src/main/java/com/ugor/user/enums/OrderStatusEnumes.java=UTF-8
+encoding//src/main/java/com/ugor/user/enums/ProjectStatusEnume.java=UTF-8
+encoding//src/main/java/com/ugor/user/enums/ResponseCodeEnume.java=UTF-8
+encoding//src/main/java/com/ugor/user/enums/UserExceptionEnum.java=UTF-8
+encoding//src/main/java/com/ugor/user/enums/UserTypeEnume.java=UTF-8
